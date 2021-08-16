@@ -1,0 +1,100 @@
+ 1831  ls
+ 1832  git push https://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@github.com/Harut-94/personal_test
+ 1833  git push
+ 1834  exit
+ 1835  cd git-test/test/
+ 1836  cd git_test/test/
+ 1837  ls
+ 1838  cd personal-test/
+ 1839  cd personal_test/
+ 1840  ls
+ 1841  marge fortest
+ 1842  merge fortest
+ 1843  git merge fortest
+ 1844  ls
+ 1845  git push
+ 1846  cd /git-test/
+ 1847  cd /git_test/
+ 1848  cd git_test/
+ 1849  cd /git_test/
+ 1850  cd /git_test
+ 1851  cd /home/harut/git_test/
+ 1852  ls
+ 1853  rm -r test
+ 1854  ls
+ 1855  cd /home/harut/
+ 1856  sudo ls -al ~/.ssh
+ 1857  cd /git_test/
+ 1858  pwd
+ 1859  ls
+ 1860  cd git_test/
+ 1861  mkdir myrepo
+ 1862  cd myrepo/
+ 1863  git init
+ 1864  git clone
+ 1865  git clone https://github.com/Harut-94/myrepo
+ 1866  cd myrepo/
+ 1867  me nano
+ 1868  nano me
+ 1869  git add .
+ 1870  git commit -m "aa"
+ 1871  git psuh
+ 1872  git push
+ 1873  git push https://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@github.com/Harut-94/myrepo
+ 1874  git branch new
+ 1875  git checkout new
+ 1876  nano his
+ 1877  git add .
+ 1878  git commit -m "for new branch"
+ 1879  git push origin -u new
+ 1880  git push origin -u new https://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@github.com/Harut-94/myrepo
+ 1881  git push origin -u new 
+ 1882* 
+ 1883  git checkout master
+ 1884  ls
+ 1885  git branches
+ 1886  git branch
+ 1887  git merge new
+ 1888  ls
+ 1889  git dd .
+ 1890  git add .
+ 1891  git commit -m "merging"
+ 1892  ls
+ 1893  git push
+ 1894  git push origin -u new https://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@github.com/Harut-94/myrepo
+ 1895  git push https://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@github.com/Harut-94/myrepo
+ 1896  git branch another
+ 1897  git checkout another
+ 1898  nano ttt
+ 1899  git add .
+ 1900  git commit -m "this nw"
+ 1901  git push https://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@github.com/Harut-94/myrepo
+ 1902  cd ~
+ 1903  pwd
+ 1904  cd git_test
+ 1905  ls
+ 1906  mkdir homework
+ 1907  ls
+ 1908  rm -r homework
+ 1909  cd hmwrk
+ 1910  mkdit hmwrk
+ 1911  mkdir hmwrk
+ 1912  cd hmwrk/
+ 1913  git int
+ 1914  git init
+ 1915  ls -la
+ 1916  git clone https://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@github.com/Harut-94/homework
+ 1917  nano author
+ 1918  ls
+ 1919  cat author
+ 1920  git add .
+ 1921  mv author homework
+ 1922  ls
+ 1923  cd homework/
+ 1924  ls
+ 1925  git add .
+ 1926  git commit -m "author's name"
+ 1927  git push https://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@github.com/Harut-94/homework
+ 1928  git branch 2nd
+ 1929  git checkout 2nd
+ 1930  history 100 > history1
